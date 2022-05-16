@@ -1,1 +1,1 @@
-print("Monday+Tuesday")
+print("Monday+Tuesday and Friday")
